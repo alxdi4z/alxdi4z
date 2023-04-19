@@ -1,4 +1,3 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/alxdi4z/186dc61a8b9514b3b45d05e78209967c/raw/f0a81ebe5852bfb7b2d0a70819ebc50998215c77/github.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Alex Dias</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alxdi4z&color=blue" alt="Profile views" /> </p>
 
@@ -7,9 +6,6 @@
 - 🪲 I'm venturing into the world of **cybersecurity**
 
 - 💬 Ask me about **JavaScript, Java, Python, SQL, Node.JS, Go**
-
-- ⚡ Fun fact **I Love games 🎮**
-
 
 <br><br>
 
@@ -31,6 +27,7 @@
 
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=alxdi4z&show_icons=true&theme=vision-friendly-dark" alt="alxdi4z's stats"/>
+<br/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alxdi4z&layout=compact&theme=vision-friendly-dark" alt="alxdi4z's most languages"/>
 </p>
 

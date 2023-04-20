@@ -3,9 +3,9 @@
 
 - 🔥 Full Stack Developer 
 
-- 🪲 I'm venturing into the world of **cybersecurity**
+- 🪲 I'm venturing into the world of **cybersecurity**!
 
-- 💬 Ask me about **JavaScript, Java, Python, SQL, Node.JS, Go**
+- 🕹️ Enthusiast for game development.
 
 <br><br>
 
